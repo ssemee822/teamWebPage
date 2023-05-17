@@ -62,7 +62,7 @@ pluralizelisttitles = false
 [[menu.main]]
     name       = "Features"
     identifier = "menu.features"
-    url        = "/img/template-easy-customize.png"
+    url        = "img/template-easy-customize.png"
     weight     = 3
 
 [[menu.main]]
