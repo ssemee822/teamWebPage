@@ -1,4 +1,4 @@
-baseurl =  "https://opensohak.github.io/teamWebPage" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
+baseurl =  "https://ssemee822.github.io/teamWebPage" # Configure URL. if using gh-pages https://github.com/<username>/hugo-universal-theme URL: https://<username>.github.io/hugo-universal-theme/
 title = "Universal"
 theme = "hugo-universal-theme"
 languageCode = "en-us"
