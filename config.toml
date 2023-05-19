@@ -216,7 +216,7 @@ pluralizelisttitles = false
     parent     = "section.ap-blog"
 
 [[menu.main]]
-    name       = "Blogdd"
+    name       = "Blog"
     identifier = "menu.blog"
     url        = "/blog/"
     weight     = 5
