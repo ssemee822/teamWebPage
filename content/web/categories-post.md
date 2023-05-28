@@ -1,19 +1,30 @@
 +++
-title = "Categories Post"
+title = "WEB 개요"
 date = "2021-08-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
-categories = ["programming","lorem","pseudo"]
+categories = ["항공대"]
 banner = "img/banners/banner-4.jpg"
-authors = ["John Doe"]
+authors = ["박창현"]
 +++
 
-I'm a post with multiple categories in the frontmatter:
-
-    categories = ["programming","lorem","pseudo"]
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.
+Web(WWW)
 
-Morbi varius ex vel justo dictum placerat. Sed ac arcu pretium, varius elit eget, gravida purus. Fusce sit amet massa mollis eros tincidunt sollicitudin. Suspendisse iaculis cursus mauris ut sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas elit ligula, molestie quis magna eu, semper posuere lorem. Mauris a justo pharetra, congue ex eget, tincidunt massa. Maecenas sit amet neque lorem.
+• 웹은 인터넷이라는 물리적 네트워크를 기반으로 함
+• 인터넷 상에 TCP/IP라는 네트워크 전송 계층의 프로토콜을 사용
+• TCP/IP 네트워크 전송 계층위에 HTTP라는 네트워크 응용계층 프로토콜을 사용• HTTP 프로토콜을 이용해 HTML이라는 마크업 언어로 작성된 하이퍼 텍스트 데이터를 전송
 
-Curabitur at elementum quam. Curabitur tristique elit non sapien aliquam vulputate. Vivamus in odio tincidunt, tempor sem quis, tincidunt lacus. Mauris pulvinar nunc sed tempus dictum. Nam vel arcu quis mi fermentum ullamcorper non ac lacus. Donec aliquet vitae ante at imperdiet. Aenean scelerisque venenatis urna, eget elementum risus convallis ac. Nullam gravida arcu lacus, non consectetur augue pretium non. Duis dignissim eros id urna pretium congue. Nullam eu magna in sem sollicitudin tempor. Pellentesque vel convallis ligula. Quisque semper, turpis a rhoncus efficitur, magna nibh iaculis elit, eget tempor dolor eros ut mi. Maecenas eu placerat lacus. Praesent congue pretium nulla, sed suscipit metus rutrum vel.
+
+Web Server(정적)
+
+• 하이퍼 텍스트 파일등의 웹 페이지 구성 파일들을 제공(Publish)하는 서버 프로그램• HTTP 서버라고도 하며 다양한 제품들이 있음
+• Apache, nginx
+
+
+(Web) Application Server(WAS, AS)(동적)
+
+• 서버에서 프로그램이 실행되고 그 결과로 HTML 파일을 생성하여 제공하는 서버 프로그램• 주로 Database에서 데이터를 조회하고, 결과를 HTML에 표현하는 기능을 많이 함• JAVA : Weblogic, Apache Tomcat
+• C# : IIS
+• PHP : PHP
+• JavaScript : Node.js

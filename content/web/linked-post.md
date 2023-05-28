@@ -1,19 +1,34 @@
 +++
-title = "Linked post"
+title = "WEB 페이지 구성"
 date = "2015-10-02T21:49:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
-categories = ["programming"]
+categories = ["항공대"]
 banner = "img/banners/banner-4.jpg"
-authors = ["John Doe","Jane Doe"]
+authors = ["박창현"]
 +++
 
-I'm a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 
-    menu = "main"
+HTML
+    
+• 시작과 끝을 표시하는 태그 쌍들로 이루어짐                               
+• 선언 : html을 선언하는 태그 쌍 내부에 내용이 들어감
+• 헤드 : 화면에 표시되지 않는 메타데이터 기록 부분
+• 바디 : 화면에 표시되는 문서의 내용과 구조가 위치하는 부분
 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.
+CSS
 
-Morbi varius ex vel justo dictum placerat. Sed ac arcu pretium, varius elit eget, gravida purus. Fusce sit amet massa mollis eros tincidunt sollicitudin. Suspendisse iaculis cursus mauris ut sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas elit ligula, molestie quis magna eu, semper posuere lorem. Mauris a justo pharetra, congue ex eget, tincidunt massa. Maecenas sit amet neque lorem.
+• html 요소별 프라퍼티 지정
+    • 요소이름(selector) {property:property value;}
+• 3가지 설정 방식이 있음
+    • Inline : HTML 요소에 직접 설정
+    • Internal : HTML 파일의 내부에 CSS 설정
+    • External : 외부파일에 CSS 설정하고 불러서 사용
 
-Curabitur at elementum quam. Curabitur tristique elit non sapien aliquam vulputate. Vivamus in odio tincidunt, tempor sem quis, tincidunt lacus. Mauris pulvinar nunc sed tempus dictum. Nam vel arcu quis mi fermentum ullamcorper non ac lacus. Donec aliquet vitae ante at imperdiet. Aenean scelerisque venenatis urna, eget elementum risus convallis ac. Nullam gravida arcu lacus, non consectetur augue pretium non. Duis dignissim eros id urna pretium congue. Nullam eu magna in sem sollicitudin tempor. Pellentesque vel convallis ligula. Quisque semper, turpis a rhoncus efficitur, magna nibh iaculis elit, eget tempor dolor eros ut mi. Maecenas eu placerat lacus. Praesent congue pretium nulla, sed suscipit metus rutrum vel.
+
+JavaScript
+
+• 인터프리터 방식의 스크립트 언어 : 런타임에 코드 해석(번역) • 표준 웹 브라우저에 인터프리터 내장
+• 클라이언트(웹 브라우저)에서 페이지 내용과 모양을 변경
+• ECMAScript 표준 준수
+• HTML 파일 내부에 코딩하는 방법과 외부 파일에서 불러서 사용하는 방법 모두 지원
