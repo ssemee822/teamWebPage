@@ -19,26 +19,6 @@ categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quo
     
     <item>
       <title>Categories Post</title>
-      <link>https://ssemee822.github.io/teamWebPage/container/categories-post/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      
-      <guid>https://ssemee822.github.io/teamWebPage/container/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
-    </item>
-    
-    <item>
-      <title>Categories Post</title>
-      <link>https://ssemee822.github.io/teamWebPage/git/categories-post/</link>
-      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
-      
-      <guid>https://ssemee822.github.io/teamWebPage/git/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
-    </item>
-    
-    <item>
-      <title>Categories Post</title>
       <link>https://ssemee822.github.io/teamWebPage/linux/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
@@ -48,13 +28,29 @@ categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quo
     </item>
     
     <item>
-      <title>Categories Post</title>
+      <title>WEB 개요</title>
       <link>https://ssemee822.github.io/teamWebPage/web/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
       
       <guid>https://ssemee822.github.io/teamWebPage/web/categories-post/</guid>
-      <description>I&amp;rsquo;m a post with multiple categories in the frontmatter:
-categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quot;pseudo&amp;quot;]  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim.</description>
+      <description>Web(WWW)
+• 웹은 인터넷이라는 물리적 네트워크를 기반으로 함 • 인터넷 상에 TCP/IP라는 네트워크 전송 계층의 프로토콜을 사용 • TCP/IP 네트워크 전송 계층위에 HTTP라는 네트워크 응용계층 프로토콜을 사용• HTTP 프로토콜을 이용해 HTML이라는 마크업 언어로 작성된 하이퍼 텍스트 데이터를 전송
+Web Server(정적)
+• 하이퍼 텍스트 파일등의 웹 페이지 구성 파일들을 제공(Publish)하는 서버 프로그램• HTTP 서버라고도 하며 다양한 제품들이 있음 • Apache, nginx
+(Web) Application Server(WAS, AS)(동적)
+• 서버에서 프로그램이 실행되고 그 결과로 HTML 파일을 생성하여 제공하는 서버 프로그램• 주로 Database에서 데이터를 조회하고, 결과를 HTML에 표현하는 기능을 많이 함• JAVA : Weblogic, Apache Tomcat • C# : IIS • PHP : PHP • JavaScript : Node.</description>
+    </item>
+    
+    <item>
+      <title>협업을 위한 깃허브의 주요 기능</title>
+      <link>https://ssemee822.github.io/teamWebPage/git/categories-post/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://ssemee822.github.io/teamWebPage/git/categories-post/</guid>
+      <description>깃허브는 개발자들이 협업하고 프로젝트를 관리하기 위한 강력한 도구입니다.
+버전 관리: 깃허브는 코드와 파일의 변경 내역을 추적하여 버전 관리를 지원합니다. 이는 여러 개발자가 동시에 작업할 때 발생할 수 있는 충돌을 방지하고, 이전 버전으로의 복구를 용이하게 합니다.
+브랜치: 깃허브는 다양한 브랜치를 통해 동시에 다양한 작업을 진행할 수 있도록 합니다. 이를 통해 여러 개발자들은 동시에 독립적으로 작업하고, 작업이 완료된 후에 이를 통합할 수 있습니다.
+이슈 트래킹: 깃허브는 버그 리포트, 개선 제안, 작업 항목 등을 관리하기 위한 이슈 트래킹 시스템을 제공합니다.</description>
     </item>
     
     <item>
@@ -63,26 +59,6 @@ categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quo
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
       <guid>https://ssemee822.github.io/teamWebPage/blog/2015/10/02/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
-    </item>
-    
-    <item>
-      <title>Linked post</title>
-      <link>https://ssemee822.github.io/teamWebPage/container/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://ssemee822.github.io/teamWebPage/container/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
-    </item>
-    
-    <item>
-      <title>Linked post</title>
-      <link>https://ssemee822.github.io/teamWebPage/git/linked-post/</link>
-      <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
-      
-      <guid>https://ssemee822.github.io/teamWebPage/git/linked-post/</guid>
       <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
 menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
     </item>
@@ -98,13 +74,15 @@ menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipisc
     </item>
     
     <item>
-      <title>Linked post</title>
+      <title>WEB 페이지 구성</title>
       <link>https://ssemee822.github.io/teamWebPage/web/linked-post/</link>
       <pubDate>Fri, 02 Oct 2015 21:49:20 +0200</pubDate>
       
       <guid>https://ssemee822.github.io/teamWebPage/web/linked-post/</guid>
-      <description>I&amp;rsquo;m a linked post in the menu. You can add other posts by adding the following line to the frontmatter:
-menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus.</description>
+      <description>HTML
+• 시작과 끝을 표시하는 태그 쌍들로 이루어짐 • 선언 : html을 선언하는 태그 쌍 내부에 내용이 들어감 • 헤드 : 화면에 표시되지 않는 메타데이터 기록 부분 • 바디 : 화면에 표시되는 문서의 내용과 구조가 위치하는 부분
+CSS
+• html 요소별 프라퍼티 지정 • 요소이름(selector) {property:property value;} • 3가지 설정 방식이 있음 • Inline : HTML 요소에 직접 설정 • Internal : HTML 파일의 내부에 CSS 설정 • External : 외부파일에 CSS 설정하고 불러서 사용</description>
     </item>
     
     <item>
@@ -113,26 +91,6 @@ menu = &amp;quot;main&amp;quot;  Lorem ipsum dolor sit amet, consectetur adipisc
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
       <guid>https://ssemee822.github.io/teamWebPage/blog/2015/06/24/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>https://ssemee822.github.io/teamWebPage/container/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://ssemee822.github.io/teamWebPage/container/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
-    </item>
-    
-    <item>
-      <title>Creating a new theme</title>
-      <link>https://ssemee822.github.io/teamWebPage/git/creating-a-new-theme/</link>
-      <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
-      
-      <guid>https://ssemee822.github.io/teamWebPage/git/creating-a-new-theme/</guid>
       <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
 We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
     </item>
@@ -148,13 +106,13 @@ We&amp;rsquo;ll start with creating a new site with a very basic template.</desc
     </item>
     
     <item>
-      <title>Creating a new theme</title>
-      <link>https://ssemee822.github.io/teamWebPage/web/creating-a-new-theme/</link>
+      <title>깃허브와 오픈소스</title>
+      <link>https://ssemee822.github.io/teamWebPage/git/creating-a-new-theme/</link>
       <pubDate>Wed, 24 Jun 2015 13:50:46 +0200</pubDate>
       
-      <guid>https://ssemee822.github.io/teamWebPage/web/creating-a-new-theme/</guid>
-      <description>Introduction This tutorial will show you how to create a simple theme in Hugo. I assume that you are familiar with HTML, the bash command line, and that you are comfortable using Markdown to format content. I&amp;rsquo;ll explain how Hugo uses templates and how you can organize your templates to create a theme. I won&amp;rsquo;t cover using CSS to style your theme.
-We&amp;rsquo;ll start with creating a new site with a very basic template.</description>
+      <guid>https://ssemee822.github.io/teamWebPage/git/creating-a-new-theme/</guid>
+      <description>깃허브와 오픈소스 리포지토리 호스팅: 깃허브는 오픈소스 프로젝트의 리포지토리 호스팅에 최적화되어 있습니다. 개발자들은 자신의 코드를 깃허브에 업로드하여 다른 개발자들과 공유할 수 있습니다. 이를 통해 오픈소스 프로젝트에 참여하고 기여하는 것이 용이해집니다.
+이슈 및 풀 리퀘스트 관리: 깃허브는 오픈소스 프로젝트에서 이슈 트래킹과 풀 리퀘스트 관리를 위한 편리한 기능을 제공합니다. 개발자들은 버그 리포트, 기능 제안 등을 이슈로 등록하고, 다른 개발자들과 토론하며 문제를 해결할 수 있습니다. 또한, 코드 변경 사항을 풀 리퀘스트로 제출하여 프로젝트에 기여할 수 있습니다.</description>
     </item>
     
   </channel>
