@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>container on Universal</title>
+    <link>https://ssemee822.github.io/teamWebPage/tags/container/</link>
+    <description>Recent content in container on Universal</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 01 Aug 2021 21:29:20 +0200</lastBuildDate><atom:link href="https://ssemee822.github.io/teamWebPage/tags/container/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Container란?</title>
+      <link>https://ssemee822.github.io/teamWebPage/container/content-post1/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://ssemee822.github.io/teamWebPage/container/content-post1/</guid>
+      <description>Container란? 컨테이너는 애플리케이션과 필요한 모든 파일을 하나의 런타임 환경으로 묶는 데 사용하는 기술입니다. 단일 구성 단위로서 컨테이너는 모든 컨텍스트의 모든 운영 체제에서 쉽게 이동 및 실행할 수 있습니다.
+효율적이고 원활한 환경 전환 컨테이너를 사용하면 소프트웨어를 격리하고 다른 운영 체제, 하드웨어, 네트워크, 스토리지 시스템 및 보안 정책에서 독립적으로 작업할 수 있습니다. 컨테이너 기반 애플리케이션을 개발, 테스트 및 생산 환경 전반에서 원활하게 전환할 수 있습니다. 운영 체제가 컨테이너에 포함되어 있지 않기 때문에 각 컨테이너는 최소한의 컴퓨팅 리소스를 사용하여 설치가 단순하고 간편합니다.</description>
+    </item>
+    
+    <item>
+      <title>Docker Container</title>
+      <link>https://ssemee822.github.io/teamWebPage/container/content-post2/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://ssemee822.github.io/teamWebPage/container/content-post2/</guid>
+      <description>Docker와 Container의 작동 방식 Docker는 컨테이너화를 지원하는 중요한 소프트웨어 플랫폼입니다. Docker에서 개발자는 컨테이너에 애플리케이션을 설계 및 구축하고, 애플리케이션을 테스트하고, 다른 시스템 및 환경으로 전달합니다.
+2013년 출시된 Docker로 컨테이너화가 유명해졌으며 개발자가 인프라에서 애플리케이션을 간편하게 분리할 수 있게 되었습니다. 따라서 엔터프라이즈는 큰 개발 프로젝트를 몇 개의 소규모 팀으로 나누어 워크로드를 분산하고 최종 구축 속도를 높일 수 있습니다. 실제로 연구자들은 DevOps 워크플로가 효율적인 IT 부서에서 소프트웨어를 훨씬 자주 구축하고, 더 빨리 복구하고, 변경 실패 비율이 훨씬 낮았다는 것을 보여주었습니다.</description>
+    </item>
+    
+  </channel>
+</rss>
