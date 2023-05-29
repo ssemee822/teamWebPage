@@ -23,7 +23,8 @@ Web Server(정적)
 
 (Web) Application Server(WAS, AS)(동적)
 
-• 서버에서 프로그램이 실행되고 그 결과로 HTML 파일을 생성하여 제공하는 서버 프로그램• 주로 Database에서 데이터를 조회하고, 결과를 HTML에 표현하는 기능을 많이 함• JAVA : Weblogic, Apache Tomcat
+• 서버에서 프로그램이 실행되고 그 결과로 HTML 파일을 생성하여 제공하는 서버 프로그램• 주로 Database에서 데이터를 조회하고, 결과를 HTML에 표현하는 기능을 많이 함
+• JAVA : Weblogic, Apache Tomcat
 • C# : IIS
 • PHP : PHP
 • JavaScript : Node.js

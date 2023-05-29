@@ -14,9 +14,6 @@
     <loc>https://ssemee822.github.io/teamWebPage/blog/2021/08/01/categories-post/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
-    <loc>https://ssemee822.github.io/teamWebPage/linux/categories-post/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
     <loc>https://ssemee822.github.io/teamWebPage/container/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
@@ -42,9 +39,6 @@
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://ssemee822.github.io/teamWebPage/authors/john-doe/</loc>
-    <lastmod>2021-08-01T21:29:20+02:00</lastmod>
-  </url><url>
-    <loc>https://ssemee822.github.io/teamWebPage/linux/</loc>
     <lastmod>2021-08-01T21:29:20+02:00</lastmod>
   </url><url>
     <loc>https://ssemee822.github.io/teamWebPage/categories/lorem/</loc>
@@ -86,9 +80,6 @@
     <loc>https://ssemee822.github.io/teamWebPage/blog/2015/10/02/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
-    <loc>https://ssemee822.github.io/teamWebPage/linux/linked-post/</loc>
-    <lastmod>2015-10-02T21:49:20+02:00</lastmod>
-  </url><url>
     <loc>https://ssemee822.github.io/teamWebPage/web/linked-post/</loc>
     <lastmod>2015-10-02T21:49:20+02:00</lastmod>
   </url><url>
@@ -98,19 +89,10 @@
     <loc>https://ssemee822.github.io/teamWebPage/blog/2015/09/17/go-is-for-lovers/</loc>
     <lastmod>2015-09-17T13:47:08+02:00</lastmod>
   </url><url>
-    <loc>https://ssemee822.github.io/teamWebPage/linux/go-is-for-lovers/</loc>
-    <lastmod>2015-09-17T13:47:08+02:00</lastmod>
-  </url><url>
     <loc>https://ssemee822.github.io/teamWebPage/blog/2015/08/03/hugo-is-for-lovers/</loc>
     <lastmod>2015-08-03T13:39:46+02:00</lastmod>
   </url><url>
-    <loc>https://ssemee822.github.io/teamWebPage/linux/hugo-is-for-lovers/</loc>
-    <lastmod>2015-08-03T13:39:46+02:00</lastmod>
-  </url><url>
     <loc>https://ssemee822.github.io/teamWebPage/blog/2015/06/24/creating-a-new-theme/</loc>
-    <lastmod>2015-06-24T13:50:46+02:00</lastmod>
-  </url><url>
-    <loc>https://ssemee822.github.io/teamWebPage/linux/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
     <loc>https://ssemee822.github.io/teamWebPage/categories/starting/</loc>
@@ -119,14 +101,16 @@
     <loc>https://ssemee822.github.io/teamWebPage/git/creating-a-new-theme/</loc>
     <lastmod>2015-06-24T13:50:46+02:00</lastmod>
   </url><url>
+    <loc>https://ssemee822.github.io/teamWebPage/linux/linux/</loc>
+  </url><url>
     <loc>https://ssemee822.github.io/teamWebPage/contact/</loc>
   </url><url>
     <loc>https://ssemee822.github.io/teamWebPage/faq/</loc>
   </url><url>
     <loc>https://ssemee822.github.io/teamWebPage/tags/ipsum/</loc>
   </url><url>
-    <loc>https://ssemee822.github.io/teamWebPage/blog/1/01/01/migrate-from-jekyll/</loc>
+    <loc>https://ssemee822.github.io/teamWebPage/linux/</loc>
   </url><url>
-    <loc>https://ssemee822.github.io/teamWebPage/linux/migrate-from-jekyll/</loc>
+    <loc>https://ssemee822.github.io/teamWebPage/blog/1/01/01/migrate-from-jekyll/</loc>
   </url>
 </urlset>
