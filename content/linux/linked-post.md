@@ -4,6 +4,7 @@ date = "2021-08-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["항공대"]
 banner = "img/banners/banner-4.jpg"
+authors = ["안승환"]
 +++
 
 • ls : 현재 디렉토리의 파일과 폴더 목록을 표시합니다.
