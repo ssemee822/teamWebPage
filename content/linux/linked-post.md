@@ -1,8 +1,8 @@
 +++
 title = "Linux 기본 명령어"
-date = "2023-05-29T19:09:20+02:00"
+date = "2021-08-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
-categories = ["programming","lorem","pseudo"]
+categories = ["항공대"]
 banner = "img/banners/banner-4.jpg"
 +++
 

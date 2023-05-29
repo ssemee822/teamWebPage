@@ -18,6 +18,29 @@ categories = [&amp;quot;programming&amp;quot;,&amp;quot;lorem&amp;quot;,&amp;quo
     </item>
     
     <item>
+      <title>Linux 기본 명령어</title>
+      <link>https://ssemee822.github.io/teamWebPage/linux/linked-post/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://ssemee822.github.io/teamWebPage/linux/linked-post/</guid>
+      <description>• ls : 현재 디렉토리의 파일과 폴더 목록을 표시합니다. ls -l : 파일에 대한 정보를 길게 출력 ls -al : 숨긴 파일을 자세하게 표시
+• cd : 디렉토리 변경을 위해 사용합니다. cd .. : 상위 디렉토리로 이동 cd - : 이전에 있던 디렉토리로 이동 cd ~ : 홈 디렉토리로 이동 cd / : 루트 디렉토리로 이동 cd &amp;lt;경로&amp;gt; : &amp;lt;경로&amp;gt;로 이동
+• pwd : 현재 작업중인 디렉토리의 경로를 표시합니다.
+• mkdir : 새로운 디렉토리를 생성합니다</description>
+    </item>
+    
+    <item>
+      <title>Linux란 무엇인가</title>
+      <link>https://ssemee822.github.io/teamWebPage/linux/linux/</link>
+      <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
+      
+      <guid>https://ssemee822.github.io/teamWebPage/linux/linux/</guid>
+      <description>• Linux란 오픈 소스 운영 체제로, 컴퓨터 시스템의 기본 소프트웨어 구성 요소인 커널을 중심으로 구성됩니다. 리눅스는 일반적으로 리눅스 배포판 안에 패키지 처리되며, 멀티유저, 멀티태스킹을 지원하는 유닉스와 유사한 운영체제입니다.
+• Linux의 장점
+오픈 소스: Linux는 오픈 소스 운영 체제로, 소스 코드가 공개되어 있습니다. 이는 사용자들이 소스 코드를 열람하고 수정하거나 개선할 수 있다는 것을 의미합니다. 개발자들은 자유롭게 커널과 소프트웨어를 수정하고 새로운 기능을 추가할 수 있으며, 커뮤니티의 협력으로 인해 지속적인 발전과 개선이 이루어집니다.</description>
+    </item>
+    
+    <item>
       <title>WEB 개요</title>
       <link>https://ssemee822.github.io/teamWebPage/web/categories-post/</link>
       <pubDate>Sun, 01 Aug 2021 21:29:20 +0200</pubDate>
