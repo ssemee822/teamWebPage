@@ -1,19 +1,16 @@
 +++
-title = "Categories Post"
+title = "협업을 위한 깃허브의 주요 기능"
 date = "2021-08-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
-categories = ["programming","lorem","pseudo"]
+categories = ["항공대"]
 banner = "img/banners/banner-4.jpg"
-authors = ["John Doe"]
+authors = ["sebin chu"]
 +++
 
-I'm a post with multiple categories in the frontmatter:
+깃허브는 개발자들이 협업하고 프로젝트를 관리하기 위한 강력한 도구입니다.
 
-    categories = ["programming","lorem","pseudo"]
+버전 관리: 깃허브는 코드와 파일의 변경 내역을 추적하여 버전 관리를 지원합니다. 이는 여러 개발자가 동시에 작업할 때 발생할 수 있는 충돌을 방지하고, 이전 버전으로의 복구를 용이하게 합니다.
 
+브랜치: 깃허브는 다양한 브랜치를 통해 동시에 다양한 작업을 진행할 수 있도록 합니다. 이를 통해 여러 개발자들은 동시에 독립적으로 작업하고, 작업이 완료된 후에 이를 통합할 수 있습니다.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. In mauris nulla, vestibulum vel auctor sed, posuere eu lorem. Aliquam consequat augue ut accumsan mollis. Suspendisse malesuada sodales tincidunt. Vivamus sed erat ac augue bibendum porta sed id ipsum. Ut mollis mauris eget ligula sagittis cursus. Aliquam id pharetra tellus. Pellentesque sed tempus risus. Proin id hendrerit ante. Vestibulum vitae urna ut mauris ultricies dignissim. Ut ante turpis, tristique vitae sagittis quis, sagittis nec diam. Fusce pulvinar cursus porta. Vivamus maximus leo dolor, ut pellentesque lorem fringilla nec. Mauris faucibus turpis posuere sapien euismod, a ullamcorper mi maximus.
-
-Morbi varius ex vel justo dictum placerat. Sed ac arcu pretium, varius elit eget, gravida purus. Fusce sit amet massa mollis eros tincidunt sollicitudin. Suspendisse iaculis cursus mauris ut sagittis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Maecenas elit ligula, molestie quis magna eu, semper posuere lorem. Mauris a justo pharetra, congue ex eget, tincidunt massa. Maecenas sit amet neque lorem.
-
-Curabitur at elementum quam. Curabitur tristique elit non sapien aliquam vulputate. Vivamus in odio tincidunt, tempor sem quis, tincidunt lacus. Mauris pulvinar nunc sed tempus dictum. Nam vel arcu quis mi fermentum ullamcorper non ac lacus. Donec aliquet vitae ante at imperdiet. Aenean scelerisque venenatis urna, eget elementum risus convallis ac. Nullam gravida arcu lacus, non consectetur augue pretium non. Duis dignissim eros id urna pretium congue. Nullam eu magna in sem sollicitudin tempor. Pellentesque vel convallis ligula. Quisque semper, turpis a rhoncus efficitur, magna nibh iaculis elit, eget tempor dolor eros ut mi. Maecenas eu placerat lacus. Praesent congue pretium nulla, sed suscipit metus rutrum vel.
+이슈 트래킹: 깃허브는 버그 리포트, 개선 제안, 작업 항목 등을 관리하기 위한 이슈 트래킹 시스템을 제공합니다. 이를 통해 팀 내에서 작업 우선순위를 설정하고, 작업 상태를 추적할 수 있습니다.
