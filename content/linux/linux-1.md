@@ -4,7 +4,6 @@ date = "2023-05-29T19:07:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming","lorem","pseudo"]
 banner = "img/banners/banner-4.jpg"
-authors = ["Seunghwan An"]
 +++
 
 Linux란 오픈 소스 운영 체제로, 컴퓨터 시스템의 기본 소프트웨어 구성 요소인 커널을 중심으로 구성됩니다. 리눅스는 일반적으로 리눅스 배포판 안에 패키지 처리되며, 멀티유저, 멀티태스킹을 지원하는 유닉스와 유사한 운영체제입니다.

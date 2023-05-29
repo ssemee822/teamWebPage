@@ -4,7 +4,6 @@ date = "2015-10-02T21:49:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["항공대"]
 banner = "img/banners/banner-4.jpg"
-authors = ["박창현"]
 +++
 
 

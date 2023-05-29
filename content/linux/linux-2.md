@@ -4,7 +4,6 @@ date = "2023-05-29T19:09:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["programming","lorem","pseudo"]
 banner = "img/banners/banner-4.jpg"
-authors = ["Seunghwan An"]
 +++
 
 - ls : 현재 디렉토리의 파일과 폴더 목록을 표시합니다.

@@ -4,7 +4,6 @@ date = "2021-08-01T21:29:20+02:00"
 tags = ["golang", "programming", "theme", "hugo"]
 categories = ["항공대"]
 banner = "img/banners/banner-4.jpg"
-authors = ["sebin chu"]
 +++
 
 깃허브는 개발자들이 협업하고 프로젝트를 관리하기 위한 강력한 도구입니다.
